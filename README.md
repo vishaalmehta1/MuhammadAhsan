@@ -126,69 +126,71 @@ Use of different tools for Scanning, Sniffing, Spoofing, MITM and other Attack V
 
 Automation of Paddy Dryer for Rice Mill industry and UET Water Tanks Simulation and Modeling of Solar angles for Tracking Surface in MATLAB PLC SCADA control for Dual Axis Solar Tracking System
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
 
-Design and Development of Motor Test Bench for PCSIR Laboratories Short Course Instructor for Programmable Logic Controller (PLC)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Design and Development of Motor Test Bench for PCSIR Laboratories Short Course Instructor for Programmable Logic Controller (PLC)
 
-Development of Energy Efficiency Advisory course in collaboration with sequa gGmbH – GiZ
+* Development of Energy Efficiency Advisory course in collaboration with sequa gGmbH – GiZ
 
 SKILLS
 ------
+* STM32 Nucleo-64 boards 
 
-STM32 Nucleo-64 boards Raspberry Pi 3
+* Embedded C 
 
-Embedded C Python
+* MBed OS (Open-Source Embedded Operating System)   
 
-MBed OS (Open-Source Embedded Operating System) Arduino Boards USART, SPI and ADC/DAC protocol for sensor interfacing ESP8266 Module
+* USART, SPI and ADC/DAC protocol for sensor interfacing
+
+* Raspberry Pi 3
+
+* Python
+
+* Arduino Boards
+
+* ESP8266 Module
 
 MAJOR SUBJECTS
 --------------
+* Network Security   
 
-Network Security Design and Analysis of Algorithms Simulation Modeling and Analysis Machine Learning
+* Simulation Modeling and Analysis
 
-Image and Video Processing Advance Operating System Data Structures Digital Electronic Circuits
+* Design and Analysis of Algorithms
 
-Optimization Theory Computer Networking
+* Image and Video Processing   
+
+* Digital Electronic Circuits
+
+* Data Strucutres
+
+* Machine Learning
+
+* Optimization Theory 
+
+* Computer Networking
+
+* Advance Operating System
 
 PUBLICATIONS
 ------------
+* Bilal Imran, Muhammad Ahsan, Ali Hammad Akbar, Ghalib A. Shah, "SecGW: On Providing DTLS based Multi-threading in MQTT-SN Gateway Application", (In-Progress)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Muhammad Ahsan, Bilal Afzal, Bilal Imran, Asim Tanwir, Ali Hammad Akbar and Galib. A. Shah. "OneM2M Architecture Based Secure MQTT Binding in Mbed OS", SSIoT 2019 - IEEE Euro S&P Workshop on Software Security for Internet of Things.
 
-Bilal Imran, Muhammad Ahsan, Ali Hammad Akbar, Ghalib A. Shah, "SecGW: On Providing DTLS based Multi-threading in MQTT-SN Gateway Application", (In-Progress)
+* Bilal Imran, Bilal Afzal, Dr. Ali Hammad Akbar, Muhammad Ahsan, Dr. Ghalib A. Shah. "MISA: Minimalist Implementation of oneM2M Security Architecture for Constrained IoT Devices", IEEE Globecom 2019.
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-Muhammad Ahsan, Bilal Afzal, Bilal Imran, Asim Tanwir, Ali Hammad Akbar and Galib. A. Shah. "OneM2M Architecture Based Secure MQTT Binding in Mbed OS", SSIoT 2019 - IEEE Euro S&P Workshop on Software Security for Internet of Things.
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-Bilal Imran, Bilal Afzal, Dr. Ali Hammad Akbar, Muhammad Ahsan, Dr. Ghalib A. Shah. "MISA: Minimalist Implementation of oneM2M Security Architecture for Constrained IoT Devices", IEEE Globecom 2019.
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-Muhammad Ahsan, Naseer Ahmad, Waqas Badar. "Simulation of Solar angles for maximizing Efficiency of Solar Thermal Collectors", 3rd International Conference on Energy Conservation and Efficiency (ICECE), 2019.
+* Muhammad Ahsan, Naseer Ahmad, Waqas Badar. "Simulation of Solar angles for maximizing Efficiency of Solar Thermal Collectors", 3rd International Conference on Energy Conservation and Efficiency (ICECE), 2019.
 
 EXTRA CURRICULAR ACTIVITIES
 ---------------------------
+* ICOSST’16, ICOSST’17, ICOSST’18 and ICOSST’19 Event Organizer.
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-ICOSST’16, ICOSST’17, ICOSST’18 and ICOSST’19 Event Organizer.
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-ICECE’17 and ICECE’18 Event Organizer.
+* ICECE’17 and ICECE’18 Event Organizer.
 
 AWARDS AND ACHIEVEMENTS
 -----------------------
+* Awarded 5 times dean’s honor certificate in B.Sc. for 1st, 2nd, 3rd, 6th and 7th semester. Received Degree in B.Sc. Electrical Engineering with Honors.
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-Awarded 5 times dean’s honor certificate in B.Sc. for 1st, 2nd, 3rd, 6th and 7th semester. Received Degree in B.Sc. Electrical Engineering with Honors.
+* Received Degree in B.S. Electrical Engineering with Honors
