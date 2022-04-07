@@ -35,17 +35,13 @@ June 2014
 
 ##### Title: Buffer Overflow Attacks and their Software assisted Protection in Computer Systems
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Exploited 32-bit Operating Systems by attacking buffer overflow vulnerable applications 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Used penetration testing tools including Kali Linux and Immunity Debugger
 
-Exploited 32-bit Operating Systems by attacking buffer overflow vulnerable applications Used penetration testing tools including Kali Linux and Immunity Debugger
+* Proposed an Encryption Algorithm as an attack prevention mechanism 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-Proposed an Encryption Algorithm as an attack prevention mechanism Analyzed proposed algorithm using different attack vectors
+* Analyzed proposed algorithm using different attack vectors
 
 B.Sc. FINAL YEAR PROJECT
 ------------------------
