@@ -9,7 +9,7 @@ Github: mahsan321
 
 Phone Number: +923238442674
 
-EDUCATION
+EDUCATON
 
 University of Engineering and Technology
 
