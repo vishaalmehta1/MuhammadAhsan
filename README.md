@@ -6,11 +6,9 @@ Muhammad Ahsan
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAKCAYAAACXDi8zAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAT0lEQVQImZ3OsQ2AMBBD0ZeI/Vs2YAhGoWKAICpaQkFOiiIqLLn49klnKKidbyw6OHE1LrAhDS6TV9WgPAb/i/iRvsrYP2OPuRlHg9Qdrg/Pvhc6gJ6QCAAAAABJRU5ErkJgggAA)
 
-H # 39C, St # 14S, Malik park, Mughalpura, Lahore, Punjab 54580, Pakistan
+Address: H # 39C, St # 14S, Malik park, Mughalpura, Lahore, Punjab 54580, Pakistan
 
-  
-
-[mahsan@uet.edu.pk](mailto:mahsan@uet.edu.pk)
+Email: [mahsan@uet.edu.pk](mailto:mahsan@uet.edu.pk)
 
 EDUCATION
 
