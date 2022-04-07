@@ -9,7 +9,7 @@ Github: mahsan321
 
 Phone Number: +923238442674
 
-EDUCATON
+### EDUCATON
 
 * University of Engineering and Technology
 
@@ -31,13 +31,9 @@ Lahore, Pakistan
 
 June 2014
 
-M.Sc. THESIS
+## M.Sc. THESIS
 
-  
-
-  
-
-### Title: Buffer Overflow Attacks and their Software assisted Protection in Computer Systems
+##### Title: Buffer Overflow Attacks and their Software assisted Protection in Computer Systems
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
 
