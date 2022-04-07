@@ -7,9 +7,9 @@ Email: [mahsan@uet.edu.pk](mailto:mahsan@uet.edu.pk)
 
 EDUCATION
 
-mahsan321
+Github: mahsan321
 
-+923238442674
+Phone Number: +923238442674
 
 University of Engineering and Technology
 
