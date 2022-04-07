@@ -89,28 +89,21 @@ Currently working on the Interoperability and Security challenges associated wit
 
 ### Projects Undertaken:
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Firewall rules Analyzing, Writing and Testing for SCADA/IoT Protocols
 
-Firewall rules Analyzing, Writing and Testing for SCADA/IoT Protocols
+* Use of different tools for Scanning, Sniffing, Spoofing, MITM and other Attack Vectors generation. 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Common Vulnerabilities and Exposures (CVE) reproduction for generation of different attacks on network to test Firewall rules
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Automation of Paddy Dryer for Rice Mill industry and UET Water Tanks 
 
-Use of different tools for Scanning, Sniffing, Spoofing, MITM and other Attack Vectors generation. Common Vulnerabilities and Exposures (CVE) reproduction for generation of different attacks on network to test Firewall rules
+* Simulation and Modeling of Solar angles for Tracking Surface in MATLAB 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* PLC SCADA control for Dual Axis Solar Tracking System
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Design and Development of Motor Test Bench for PCSIR Laboratories 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-Automation of Paddy Dryer for Rice Mill industry and UET Water Tanks Simulation and Modeling of Solar angles for Tracking Surface in MATLAB PLC SCADA control for Dual Axis Solar Tracking System
-
-
-
-
-* Design and Development of Motor Test Bench for PCSIR Laboratories Short Course Instructor for Programmable Logic Controller (PLC)
+* Short Course Instructor for Programmable Logic Controller (PLC)
 
 * Development of Energy Efficiency Advisory course in collaboration with sequa gGmbH – GiZ
 
