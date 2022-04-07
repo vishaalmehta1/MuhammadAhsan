@@ -13,7 +13,7 @@ Phone Number: +923238442674
 
 * University of Engineering and Technology
 
-Master of Electrical Engineering (CGPA: 3.75)
+#### Master of Electrical Engineering (CGPA: 3.75)
 
   
 
@@ -23,7 +23,7 @@ June 2018
 
 * University of Engineering and Technology
 
-B.Sc. Electrical Engineering (CGPA: 3.70)
+#### B.Sc. Electrical Engineering (CGPA: 3.70)
 
   
 
