@@ -61,40 +61,29 @@ UET, Lahore Oct 2014 - Current
 
 ### Current Project:
 
-Currently working on the Interoperability and Security challenges associated with IoT devices following OneM2M specification. The project include the following specifications
+Currently working on the Interoperability and Security challenges associated with IoT devices following OneM2M specification. The project include the following spcifications
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Implementation of Horizontal Layer OneM2M Standard Framework for M2M and IoTs Sensor Nodes on MbedOS running over Nucleo STM32 L476rg boards
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* MQTT client/broker model implementation on Raspbian Jessie OS running over Raspberry Pi 3 Gateway design for IoT Applications which supports multiple service functionalities including
 
-Implementation of Horizontal Layer OneM2M Standard Framework for M2M and IoTs Sensor Nodes on MbedOS running over Nucleo STM32 L476rg boards
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-MQTT client/broker model implementation on Raspbian Jessie OS running over Raspberry Pi 3 Gateway design for IoT Applications which supports multiple service functionalities including
-
-*   Registration
+    - Registration
     
-*   Security Association and Establishment (SAE)
+    - Security Association and Establishment (SAE)
     
-*   Data Management and Repository (DMR)
+    - Data Management and Repository (DMR)
     
-*   Access Control Policies (ACPs)
+    -  Access Control Policies (ACPs)
     
-*   Subscription and Notification
+    -  Subscription and Notification
     
-*   Secure MQTT/MQTT-SN Binding
+    -  Secure MQTT/MQTT-SN Binding
     
+* Transport Layer Protocol DTLS/UDP and TLS/TCP implementation. 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
+* Serialization/de-serialization of JSON request/response packets 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAc0lEQVQImV3NIQoCQQBA0TfD5A1bNYt2g02wrsW41/BWJkGwKewFTIKCdc0b9ABjcIr+9vnhh8X2ILMM7FFl3tgEuUtY4YgJnhjjgSZhhzl6X/riXUSNm1/uqCMGzP7iFENEi0t5BYyKtwknNLiiwgtrnD8rMBitoUlRXwAAAABJRU5ErkJgggAA)
-
-Transport Layer Protocol DTLS/UDP and TLS/TCP implementation. Serialization/de-serialization of JSON request/response packets DTLS Support for MQTT-SN Multi-threaded Gateway Application
+* DTLS Support for MQTT-SN Multi-threaded Gateway Application
 
 [GitHub Link:](https://github.com/AikM2M) [https://github.com/AikM2M](https://github.com/AikM2M)
 
