@@ -9,8 +9,8 @@ Github: mahsan321
 
 Phone Number: +923238442674
 
-### EDUCATON
-
+Education
+==============
 * University of Engineering and Technology
 
 #### Master of Electrical Engineering (CGPA: 3.75)
