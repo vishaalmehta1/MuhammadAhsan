@@ -5,11 +5,11 @@ Address: H # 39C, St # 14S, Malik park, Mughalpura, Lahore, Punjab 54580, Pakist
 
 Email: [mahsan@uet.edu.pk](mailto:mahsan@uet.edu.pk)
 
-EDUCATION
-
 Github: mahsan321
 
 Phone Number: +923238442674
+
+EDUCATION
 
 University of Engineering and Technology
 
