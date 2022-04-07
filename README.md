@@ -11,17 +11,17 @@ Phone Number: +923238442674
 
 EDUCATON
 
-University of Engineering and Technology
+* University of Engineering and Technology
 
 Master of Electrical Engineering (CGPA: 3.75)
 
   
 
-Lahore, Pakistan
+Lahore, Pakistan 
 
 June 2018
 
-University of Engineering and Technology
+* University of Engineering and Technology
 
 B.Sc. Electrical Engineering (CGPA: 3.70)
 
