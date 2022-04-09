@@ -15,7 +15,6 @@ Education
 
 #### Master of Electrical Engineering (CGPA: 3.75)
 
-![bird](https://user-images.githubusercontent.com/101203375/162582475-5137910f-b4f5-4d96-a6ce-dec348e062de.jpg)
   
 
 Lahore, Pakistan 
@@ -32,7 +31,18 @@ Lahore, Pakistan
 
 June 2014
 
+
+
+
+![bird](https://user-images.githubusercontent.com/101203375/162582475-5137910f-b4f5-4d96-a6ce-dec348e062de.jpg)
+
+
+
 ## M.Sc. THESIS
+
+
+
+
 
 ##### Title: Buffer Overflow Attacks and their Software assisted Protection in Computer Systems
 
