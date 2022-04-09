@@ -15,6 +15,7 @@ Education
 
 #### Master of Electrical Engineering (CGPA: 3.75)
 
+![bird](https://user-images.githubusercontent.com/101203375/162582475-5137910f-b4f5-4d96-a6ce-dec348e062de.jpg)
   
 
 Lahore, Pakistan 
