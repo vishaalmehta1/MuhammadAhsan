@@ -1,16 +1,17 @@
 Muhammad Ahsan
 ==============
 
-Address: H # 39C, St # 14S, Malik park, Mughalpura, Lahore, Punjab 54580, Pakistan
-
-Email: [mahsan@uet.edu.pk](mailto:mahsan@uet.edu.pk)
+Email: [ahsanm5@vcu.edu](mailto:ahsanm5@vcu.edu)
 
 Github: mahsan321
 
-Phone Number: +923238442674
+Phone Number: +1 804-591-6460
 
 Education
 ==============
+
+* Virginia Commonwealth University (VCU)
+
 * University of Engineering and Technology
 
 #### Master of Electrical Engineering (CGPA: 3.75)
