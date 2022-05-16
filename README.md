@@ -1,5 +1,4 @@
-Muhammad Ahsan
-==============
+<img src="https://user-images.githubusercontent.com/101203375/168688752-7cb89b99-a107-42c5-b71e-6d0961103cb3.jpg" width ="300" height="300">
 
 Email: [ahsanm5@vcu.edu](mailto:ahsanm5@vcu.edu)
 
@@ -32,10 +31,6 @@ Lahore, Pakistan
 
 June 2014
 
-
-
-
-<img src="https://user-images.githubusercontent.com/101203375/168688752-7cb89b99-a107-42c5-b71e-6d0961103cb3.jpg" width ="300" height="300">
 
 
 
