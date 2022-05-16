@@ -35,7 +35,7 @@ June 2014
 
 
 
-![bird](https://user-images.githubusercontent.com/101203375/162582475-5137910f-b4f5-4d96-a6ce-dec348e062de.jpg)
+<img src="https://user-images.githubusercontent.com/101203375/168688752-7cb89b99-a107-42c5-b71e-6d0961103cb3.jpg" width ="300" height="300">
 
 
 
